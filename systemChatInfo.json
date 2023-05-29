@@ -1,0 +1,95 @@
+systemChatInfo = [{
+    //2번 질문
+    "content": "Oh ok. Hello!",
+    "followingCountry": "all"
+},
+{
+    //3번 질문
+    "content": "What is your name?",
+    "followingCountry": "all"
+},
+{
+    //4번 질문
+    "content": "Nice to meet you!",
+    "followingCountry": "all"
+},
+{
+    //5번 질문
+    "content": "Great to talk to you! How are you doing?",
+    "followingCountry": "all"
+},
+{
+    //6번 질문
+    "content": "I am doing great! Thanks for asking. By the way, I want to know about you! What do you do for fun?",
+    "followingCountry": "all"
+},
+{
+    //7번 질문
+    "content": "Anime! I love Slam Dunk! I think it’s both popular in Korea and Japan. Have you watched Slam Dunk before?",
+    "followingCountry": "all"
+},
+{
+    //8번 질문
+    "content": "(Ask your partner's hobby!)",
+    "followingCountry": "all"
+},
+{
+    //9번 질문
+    "content": "I like to listen to music in my free time. I like K-pop the most! My favorite music is “Hype boy” by Newjeans.",
+    "followingCountry": "all"
+},
+{//국적에 따른 분기점 시작(근데 분기점 문제여도 10-Korea번 이게 아니라 10번 11번 이렇게 번호 나눔)
+    //10번 질문
+    "content": "Wow! We just click! I’m very interested in Korean culture. Can you tell me about your school life in Korea?",
+    "followingCountry": "Korea"
+},
+{
+    //11번 질문
+    "content": "Wow! We just click! I’m very interested in Japanese culture. Can you tell me about your school life in Japan?",
+    "followingCountry": "Japan"
+},
+{
+    //12번 질문
+    "content": "Then what are you going to do on vacation?",
+    "followingCountry": "Korea"
+},
+{
+    //13번 질문
+    "content": "Then what are you going to do on vacation?",
+    "followingCountry": "Japan"
+},
+{
+    //14번 질문
+    "content": "Sounds great! Do you have any plans yet?",
+    "followingCountry": "all"
+},
+{
+    //15번 질문
+    "content": "What kind of things are you interested in our country?",
+    "followingCountry": "Japan"
+},
+{
+    //16번 질문
+    "content": "What kind of things are you interested in our country?",
+    "followingCountry": "Korea"
+},
+{
+    //17번 질문
+    "content": "I strongly recommend you to visit HYBE INSIGHT. You can experience various K-pop culture with the five Spences.",
+    "followingCountry": "Japan"
+},
+{
+    //18번 질문
+    "content": "I strongly recommend you to visit Akihabara. This is the place a Mecca to beards from all over the world.",
+    "followingCountry": "Korea"
+},
+{
+    //끝내는 말
+    "content": "I hope you will have a nice vacation!!",
+    "followingCountry": "all"
+},
+{
+    //끝 기준. 빈 내용
+    "content": "",
+    "followingCountry": "all"
+}]
