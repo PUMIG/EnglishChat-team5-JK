@@ -9,11 +9,11 @@ userChatInfo = [{//실질적으로 14번의 말을 하게 된다(스코어 만�
 },
 {
     //3번 질문
-    "content": "My name is ~",
+    "content": "My name <strong>is</strong> ~",
     "IsCorrect": true,
 },
 {
-    "content": "My name are ~",
+    "content": "My name <strong>are</strong> ~",
     "IsCorrect": false,
 },
 {
@@ -36,128 +36,128 @@ userChatInfo = [{//실질적으로 14번의 말을 하게 된다(스코어 만�
 },
 {
     //6번 질문
-    "content": "I like to watch anime when I have free time.",
+    "content": "I like to watch anime when I <strong>have</strong> free time.",
     "IsCorrect": true,
 },
 {
-    "content": "I like to watch anime when I had free time.",
+    "content": "I like to watch anime when I <strong>had</strong> free time.",
     "IsCorrect": false,
 },
 {
     //7번 질문
-    "content": "Yes, I did! My favorite character is Hanamichi Sakuragi (강백호).",
+    "content": "Yes, I <strong>did</strong>! My favorite character is Hanamichi Sakuragi (강백호).",
     "IsCorrect": false,
 },
 {
-    "content": "Yes, I have! My favorite character is Hanamichi Sakuragi (강백호).",
+    "content": "Yes, I <strong>have</strong>! My favorite character is Hanamichi Sakuragi (강백호).",
     "IsCorrect": true,
 },
 {
     //8번 질문
-    "content": "What is your favorite hobby?",
+    "content": "What <strong>is</strong> your favorite hobby?",
     "IsCorrect": true,
 },
 {
-    "content": "What are your favorite hobby?",
+    "content": "What <strong>are</strong> your favorite hobby?",
     "IsCorrect": false,
 },
 {
     //9번 질문
-    "content": "What a surprise! I like Newjeans, also!",
+    "content": "What a surprise! I like Newjeans, <strong>also</strong>!",
     "IsCorrect": false,
 },
 {
-    "content": "What a surprise! I like Newjeans, too!",
+    "content": "What a surprise! I like Newjeans, <strong>too</strong>!",
     "IsCorrect": true,
 },
 {//국적에 따른 분기점 시작(번호는 걍 다 따로 부여함)
     //10번 질문
-    "content": "In Korea, our school starts in March and the semester ends in July.",
+    "content": "In Korea, our school starts <strong>in</strong> March and the semester ends in July.",
     "IsCorrect": true,
 },
 {
-    "content": "In Korea, our school starts on March and the semester ends on July.",
+    "content": "In Korea, our school starts <strong>on</strong> March and the semester ends on July.",
     "IsCorrect": false,
 },
 {
     //11번 질문
-    "content": "In Japan,  our school starts in April and the semester ends in July.",
+    "content": "In Japan,  our school starts in April and the semester ends <strong>in</strong> July.",
     "IsCorrect": true,
 },
 {
-    "content": "In Japan,  our school starts on April and the semester ends on July.",
+    "content": "In Japan,  our school starts on April and the semester ends <strong>on</strong> July.",
     "IsCorrect": false,
 },
 {
     //12번 질문
-    "content": "I am going to travel to Japan.",
+    "content": "I <strong>am going to</strong> travel to Japan.",
     "IsCorrect": true,
 },
 {
-    "content": "I am go to  travel to Japan.",
+    "content": "I <strong>am go to</strong> travel to Japan.",
     "IsCorrect": false,
 },
 {
     //13번 질문
-    "content": "I am going to travel to Korea.",
+    "content": "I <strong>am going to</strong> travel to Korea.",
     "IsCorrect": true,
 },
 {
-    "content": "I am go to  travel to Korea.",
+    "content": "I <strong>am go to</strong> travel to Korea.",
     "IsCorrect": false,
 },
 {
     //14번 질문
-    "content": "Not yet. May you recommend me some places that I should visit?",
+    "content": "Not yet. <strong>May</strong> you recommend me some places that I should visit?",
     "IsCorrect": false,
 },
 {
-    "content": "Not yet. Can you recommend me some places that I should visit?",
+    "content": "Not yet. <strong>Can</strong> you recommend me some places that I should visit?",
     "IsCorrect": true,
 },
 {
     //15번 질문
-    "content": "I am interested in K-pop.",
+    "content": "I <strong>am interested in</strong> K-pop.",
     "IsCorrect": true,
 },
 {
-    "content": "I am interest on K-pop.",
+    "content": "I <strong>am interest on</strong> K-pop.",
     "IsCorrect": false,
 },
 {
     //16번 질문
-    "content": "I am interested in Japanese anime.",
+    "content": "I <strong>am interested in</strong> Japanese anime.",
     "IsCorrect": true,
 },
 {
-    "content": "I am interested on Japanese anime.",
+    "content": "I <strong>am interest on</strong> Japanese anime.",
     "IsCorrect": false,
 },
 {
     //17번 질문
-    "content": "It  looks awesome! I will go there definitely.",
+    "content": "It  looks awesome! I <strong>had to go</strong> there.",
     "IsCorrect": false,
 },
 {
-    "content": "It looks awesome! I will definitely go there!",
+    "content": "It looks awesome! I <strong>will have to go</strong> there!",
     "IsCorrect": true,
 },
 {
     //18번 질문
-    "content": "It  looks awesome! I will go there definitely.",
+    "content": "It  looks awesome! I <strong>had to go</strong> there.",
     "IsCorrect": false,
 },
 {
-    "content": "It looks awesome! I will definitely go there!",
+    "content": "It looks awesome! I <strong>will have to go</strong> there!",
     "IsCorrect": true,
 },
 {
     //끝내는 말
-    "content": "Thank you!",
-    "IsCorrect": true,
+    "content": "thanks <strong>a lot of</strong>!",
+    "IsCorrect": false,
 },
 {
-    "content": "Thanks a million.",
+    "content": "thanks <strong>a lot</strong>!",
     "IsCorrect": true,
 },
 {

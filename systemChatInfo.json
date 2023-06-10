@@ -30,7 +30,7 @@ systemChatInfo = [{
 },
 {
     //8번 질문
-    "content": "(Ask your partner's hobby!)",
+    "content": "Aren't you curious about my hobby?",
     "followingCountry": "all"
 },
 {
